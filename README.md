@@ -30,19 +30,27 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<br/><br/>
 
 <!-- ═══════════════════════════════ ABOUT ME ══════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> &nbsp; About Me
+## 🚀 &nbsp; About Me
 
-Hey there! 👋 I'm **Tushar Singh**, a Computer Science student and Full Stack Web Developer passionate about building functional, user-centric web applications and solving algorithmic problems.
+<p>
+  Hey there! 👋 I'm <b>Tushar Singh</b>, a Computer Science student and Full Stack Web Developer passionate about building functional, user-centric web applications and solving algorithmic problems.
+</p>
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 🚀 **Focus:** Full Stack Web Development (JavaScript, Node.js, Express.js, MongoDB)
-- 💡 **Interests:** Data Structures & Algorithms, Web Development, Software Engineering
-- 🌱 **Currently Exploring:** Advanced Backend Architecture & System Design
-- 📫 **Get in Touch:** [tusharsingh1705@gmail.com](mailto:tusharsingh1705@gmail.com)
+<ul>
+  <li>🎓 <b>Education:</b> B.Tech in Computer Science &amp; Engineering</li>
+  <li>🚀 <b>Focus:</b> Full Stack Web Development (JavaScript, Node.js, Express.js, MongoDB)</li>
+  <li>💡 <b>Interests:</b> Data Structures &amp; Algorithms, Web Development, Software Engineering</li>
+  <li>🌱 <b>Currently Exploring:</b> Advanced Backend Architecture &amp; System Design</li>
+  <li>📫 <b>Get in Touch:</b> <a href="mailto:tusharsingh1705@gmail.com">tusharsingh1705@gmail.com</a></li>
+</ul>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
