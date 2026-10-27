@@ -36,21 +36,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> &nbsp; About Me
 
-```yaml
-🌌 Name:        Tushar Singh
-🎓 Status:      Computer Science Student
-🚀 Role:        Full Stack Web Developer (MERN)
-🔭 Exploring:   The vast universe of code & technology
-🌱 Learning:    React.js, DSA, Machine Learning
-⚡ Fun Fact:    I believe every bug is a wormhole to a better solution!
-📫 Reach me:    tusharsingh1705@gmail.com
-```
+Hey there! 👋 I'm **Tushar Singh**, a Computer Science student and Full Stack Web Developer passionate about building functional, user-centric web applications and solving algorithmic problems.
 
-<br/>
-
-> *"In the infinite space of code, every line written is a star born."* ✨
-
-<br/>
+- 🎓 **Education:** B.Tech in Computer Science & Engineering
+- 🚀 **Focus:** Full Stack Web Development (JavaScript, Node.js, Express.js, MongoDB)
+- 💡 **Interests:** Data Structures & Algorithms, Web Development, Software Engineering
+- 🌱 **Currently Exploring:** Advanced Backend Architecture & System Design
+- 📫 **Get in Touch:** [tusharsingh1705@gmail.com](mailto:tusharsingh1705@gmail.com)
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
