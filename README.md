@@ -5,15 +5,9 @@
 <div align="center">
 
 <!-- ✦ ANIMATED HEADER BANNER ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=220&section=header&text=𝙏𝙪𝙨𝙝𝙖𝙧%20𝙎𝙞𝙣𝙜𝙝&fontSize=52&fontColor=e2e8f0&fontAlignY=35&desc=🚀%20Navigating%20the%20Code%20Universe%20|%20MERN%20Stack%20Explorer&descSize=16&descColor=a78bfa&descAlignY=55&animation=fadeIn"/>
-
-<!-- ✦ TYPING ANIMATION ✦ -->
-<a href="https://github.com/TusharSingh1705">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8C%8C+Full+Stack+Developer+%7C+CS+Student;%E2%9C%A8+Building+Digital+Galaxies%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b4b,75:4c1d95,100:7c3aed&height=200&section=header&text=𝙏𝙪𝙨𝙝𝙖𝙧%20𝙎𝙞𝙣𝙜𝙝&fontSize=52&fontColor=e2e8f0&fontAlignY=40&animation=fadeIn"/>
 
 <br/>
-
 <!-- ✦ COSMIC BADGES ✦ -->
 <img src="https://img.shields.io/badge/Focus-MERN_Stack-7c3aed?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="Focus"/>
 &nbsp;
